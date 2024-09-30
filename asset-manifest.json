@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-REACT-planner/static/css/main.6680ad67.css",
+    "main.js": "/the-REACT-planner/static/js/main.3b402950.js",
+    "static/js/453.d8d6446f.chunk.js": "/the-REACT-planner/static/js/453.d8d6446f.chunk.js",
+    "index.html": "/the-REACT-planner/index.html",
+    "main.6680ad67.css.map": "/the-REACT-planner/static/css/main.6680ad67.css.map",
+    "main.3b402950.js.map": "/the-REACT-planner/static/js/main.3b402950.js.map",
+    "453.d8d6446f.chunk.js.map": "/the-REACT-planner/static/js/453.d8d6446f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6680ad67.css",
+    "static/js/main.3b402950.js"
+  ]
+}
